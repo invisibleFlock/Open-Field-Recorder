@@ -77,8 +77,12 @@ The OFR has been deployed in Sumatra in 2019 and will  return there in mid 2020 
 
 # Can i hear what it sounds like:
 
-[Yes](/soundSample/cackle-veryloud-box1.wav).
+Yes:
+[A loud monkey cackle](/soundSample/cackle-veryloud-box1.wav).
+[a storm](/soundSample/THUNDERSTORM-CLIP-BOX8.wav).
+[and an orangutan](/soundSample/O-TANG-CLIP.wav).
 
+All of these were recorded in Sumatra in 2019.
 
 # Who else is part of this project:
 
