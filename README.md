@@ -77,7 +77,7 @@ The OFR has been deployed in Sumatra in 2019 and will  return there in mid 2020 
 
 # Can i hear what it sounds like:
 
-[Yes](https://github.com/benIflock/Open-Field-Recorder/blob/master/soundSample/cackle-veryloud-box1.wav).
+[Yes](/soundSample/cackle-veryloud-box1.wav).
 
 
 # Who else is part of this project:
