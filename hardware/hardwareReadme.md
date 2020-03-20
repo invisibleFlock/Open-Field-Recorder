@@ -33,7 +33,7 @@ The OFR shield is our new and exciting development in the OFR. Its built with ou
 
 The shield will further provide you with tangible physical controls over some key parameters such as Gain, Audio Qualilty and toggling the GPS on and off for indoor or outdoor use.
 
-The current international situation has sloweed down the development of the board but we expect to have prototype builds out late summer 2020 and have a limited amount available for sale laste 2020.
+The current international situation has sloweed down the development of the board but we expect to have prototype builds out late summer 2020 and have a limited amount available for sale late 2020.
 
 
 
