@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+layout: page
+title: "hardware"
+permalink: /hardware/hardwareReadme.md
