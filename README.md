@@ -1,5 +1,5 @@
+Welcome to the project page for the OFR
 
- - 
 # What is OFR:
 
 OFR is the Open Field Recorder created by Invisible Flock (and friends). 
@@ -58,6 +58,10 @@ This is all provided free (as in both beer and speech) but would appreciate a me
 
 ![shield](/images/shieldOFR.PNG)
 
+# How do i use it:
+
+Right now getting a build of your own up and running would require a bit of work on your part but we are here to help with that. In the first instance you will need to head over the [hardware](hardware/hardwareReadme.md) page which lsits and explains the next steps. We are working to make the time and effrot needed to get you up and running with the OFR system as easy as possible so you can get out in the field with it.
+
 # What are the future plans:
 
 Future versions of the OFR will hopefully offer other platforms to run the OFR on as well as provide longer recording time and more i/o options. 
@@ -71,5 +75,12 @@ We are also working closely with our friend and long time collaborator Romit Raj
 
 The OFR has been deployed in Sumatra in 2019 and will  return there in mid 2020 to help monitor and establish an elephant migration corridor. It is being used in the sate of Karnataka in India where it is similarly being used on farms where human elephant conflict is a recurring issue. Later in 2020 it will be deploeyd accross the North of Finland to record the sound of the yearly freeze as part of an ongoing project with the Sub Zero collective of artists and scientists working on the edge of the artic. Hopefully we can keep this list updated and growing.
 
+# Can i hear what it sounds like:
+
+Yes.
 
 
+
+# Who else is part of this project:
+
+The OFR was first designed and created as part of a collaboration between Invisible Flock and resaearch undertaken by academics from [LEAP](https://go-leap.wixsite.com/home) specifically Amanda H Korstjens and Helen Slater and their ongoing reasearch through Borunemouth Univeristy in the Leuser Ecosystem.
