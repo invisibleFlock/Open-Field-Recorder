@@ -1,8 +1,4 @@
-theme: jekyll-theme-cayman
--
-layout: page
-title: "hardware"
-permalink: /hardware/hardwareReadme.md
+
  - 
 # What is OFR:
 
