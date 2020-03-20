@@ -17,7 +17,7 @@ The OFR was created by Invisible Flock to solve a specific need we had to record
 Expand ability and flexibility were important for us in this design and was the ability for other users to build on it and hack the recorder into their own needs. Verion 1.1 is built on the Spresense platform by Sony which is programmable via the Arduino IDE.
 
 
-![monkey with REcorder](/images/recorder_fusion (1).jpg)
+![explodded view](/images/recorder_fusion.jpg)
 
 
 # Give me some specs:
@@ -38,7 +38,7 @@ Version 1.1 of the OFR:
 
 We do not currently sell the OFR as this would be neither costs effective for us or you or practical for us as we are a small studio whose main output is not product manufacture. Instead we offer the full spec and design files for the OFR, including the CAD files for the box interior, the schematics for the shield, the codebase for creating and running your own version, a software interface for controlling and setting up your recorders and a willingness to engage and share knowledge with you in whatever project you embark on with the OFR.  This is all provided free (as in both beer and speech) but would appreciate a mention or shoutout as we are hoping to build a community around the creative use of the OFR.
 
-![monkey with REcorder](/images/shieldOFR.PNG)
+![shield](/images/shieldOFR.PNG)
 
 
 # Where is it being used at moment:
