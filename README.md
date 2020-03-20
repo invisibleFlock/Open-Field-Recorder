@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 -
 layout: page
 title: "hardware"
-permalink: /hardware/readme.md
+permalink: /hardware/hardwareReadme.md
  - 
 # What is OFR:
 
