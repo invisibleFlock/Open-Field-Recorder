@@ -65,6 +65,9 @@ This is all provided free (as in both beer and speech) but would appreciate a me
 
 Right now getting a build of your own up and running would require a bit of work on your part but we are here to help with that. In the first instance you will need to head over the [hardware](hardware/hardwareReadme.md) page which lists and explains the next steps. We are working to make the time and effort needed to get you up and running with the OFR system as easy as possible so you can get out in the field with it.
 
+The project and the code is available on the github although at the time of writing we cannot be certain that it is a working version - over the next month we will get all of this documentation up to scratch and ready to flash onto your own OFR system.
+
+
 # What are the future plans:
 
 Future versions of the OFR will hopefully offer other platforms to run the OFR on as well as provide longer recording time and more i/o options. 
@@ -91,4 +94,4 @@ All of these were recorded in Sumatra in 2019.
 
 The OFR was first designed and created as part of a collaboration between Invisible Flock and research undertaken by academics from [LEAP](https://go-leap.wixsite.com/home) specifically Amanda H Korstjens and Helen Slater and their ongoing research through Bournemouth University in the Leuser Ecosystem.
 
-
+If you have any questions about the OFR, using it, deploying it or anything generally please do not hesitate to get in touch.
