@@ -4,6 +4,8 @@ Welcome to the project page for the OFR
 
 OFR is the Open Field Recorder created by Invisible Flock (and friends). 
 
+With support and in collaboration with Bournemouth University and Professor Amanda H Korstjens from [LEAP](https://go-leap.wixsite.com/home/amanda-korstjens).
+
 It is an open hardware and software platform for remote long form bio-acoustic recording. 
 
 It is created for *sound artists, conservationists, scientist* and anyone who wants or needs to record audio and environmental data for long periods of time in inhospitable environments. 
